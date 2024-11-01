@@ -5,6 +5,9 @@ James D. Kong
 
 This application is a GUI-based tool designed to streamline the process of extracting and filtering specific user messages from Discord chat logs for further analysis or fun simulations using AI tools like ChatGPT or Claude. By filtering messages from one or multiple users, you can reduce the text content to fit within the input constraints of these AI tools, enabling deeper insights or conversation simulations. 
 
+![sc_1](demo_assets/sc_1.png)
+![sc_2](demo_assets/sc_2.png)
+
 ## Purpose
 
 By using this tool, you can:
